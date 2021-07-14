@@ -15,5 +15,6 @@ Além de usas funções como SOMASES e CONT.SES para consolidar os dados das ven
 Passo a passo :
 
 Crie o seu bot no telegram utilzando o @BotFather 
+
 No script vba substitua o TOKEN do meu bot pelo seu 
 
