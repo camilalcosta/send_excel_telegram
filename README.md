@@ -16,5 +16,4 @@ Passo a passo :
 
 Crie o seu bot no telegram utilzando o @BotFather 
 No script vba substitua o TOKEN do meu bot pelo seu 
-Start Conversations in your new Telegram Bot (type more messages)
 
