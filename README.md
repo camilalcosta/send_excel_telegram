@@ -16,5 +16,7 @@ Passo a passo :
 
 Crie o seu bot no telegram utilzando o @BotFather 
 
+Faça o download da planilha e abra a macro "enviar_tabela_excel_por_telegram"
+
 No script vba substitua o TOKEN do meu bot pelo seu 
 
